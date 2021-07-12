@@ -8,7 +8,7 @@ class CloverLeafTest(hack.HackathonBase):
     valid_systems = ['aws:c6gn']
 
     # Logging Variables
-    log_team_name = 'TeamArm'
+    log_team_name = 'HPCNepal'
     log_app_name = 'CloverLeaf'
     log_test_name = 'BM16_short'
 
